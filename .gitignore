@@ -2,3 +2,4 @@ fused_model_GRPO/
 fused_model/
 adapters/
 adaptersGRPO/
+.ipynb_checkpoints/
